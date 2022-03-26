@@ -88,12 +88,9 @@
                 <a href="#" class="-m-2 p-2 block font-medium text-gray-900">Create account</a>
               </div>
             </div>
-
             <div class="border-t border-gray-200 py-6 px-4">
               <a href="#" class="-m-2 p-2 flex items-center">
-                <img src="https://tailwindui.com/img/flags/flag-canada.svg" alt="" class="w-5 h-auto block flex-shrink-0" />
-                <span class="ml-3 block text-base font-medium text-gray-900"> CAD </span>
-                <span class="sr-only">, change currency</span>
+             
               </a>
             </div>
           </div>
@@ -115,7 +112,7 @@
             <div class="ml-4 flex lg:ml-0">
               <a href="#">
                 <span class="sr-only">Workflow</span>
-                <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark.svg?color=indigo&shade=600" alt="" />
+                <img class="h-8 w-auto" src="../assets/monto.logo.png" alt="" />
               </a>
             </div>
 
@@ -179,19 +176,9 @@
             </PopoverGroup>
 
             <div class="ml-auto flex items-center">
-              <div class="hidden lg:flex lg:flex-1 lg:items-center lg:justify-end lg:space-x-6">
-                <a href="#" class="text-sm font-medium text-gray-700 hover:text-gray-800">Sign in</a>
-                <span class="h-6 w-px bg-gray-200" aria-hidden="true" />
-                <a href="#" class="text-sm font-medium text-gray-700 hover:text-gray-800">Create account</a>
-              </div>
+              
 
-              <div class="hidden lg:ml-8 lg:flex">
-                <a href="#" class="text-gray-700 hover:text-gray-800 flex items-center">
-                  <img src="https://tailwindui.com/img/flags/flag-canada.svg" alt="" class="w-5 h-auto block flex-shrink-0" />
-                  <span class="ml-3 block text-sm font-medium"> CAD </span>
-                  <span class="sr-only">, change currency</span>
-                </a>
-              </div>
+              
 
               <!-- Search -->
               <div class="flex lg:ml-6">
@@ -218,6 +205,7 @@
       <div class="pt-16 pb-80 sm:pt-24 sm:pb-40 lg:pt-40 lg:pb-48">
         <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 sm:static">
           <div class="sm:max-w-lg">
+             <img class="h-56 mb-10 w-auto" src="../assets/monto.logo.png" alt="" />
             <h1 class="text-4xl font font-extrabold tracking-tight text-gray-900 sm:text-6xl">Summer styles are finally here</h1>
             <p class="mt-4 text-xl text-gray-500">This year, our new summer collection will shelter you from the harsh elements of a world that doesn't care if you live or die.</p>
           </div>
@@ -491,7 +479,7 @@
         </div>
 
         <div class="border-t border-gray-200 py-10">
-          <p class="text-sm text-gray-500">Copyright &copy; 2021 Clothing Company Inc.</p>
+          <p class="text-sm text-gray-500">Copyright &copy; Sissel Fjell - All rights reserved.</p>
         </div>
       </div>
     </footer>
