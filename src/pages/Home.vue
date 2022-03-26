@@ -207,7 +207,7 @@
           <div class="sm:max-w-lg">
              <img class="h-56 mb-10 w-auto" src="../assets/monto.logo.png" alt="" />
             <h1 class="text-4xl font font-extrabold tracking-tight text-gray-900 sm:text-6xl">Summer styles are finally here</h1>
-            <p class="mt-4 text-xl text-gray-500">This year, our new summer collection will shelter you from the harsh elements of a world that doesn't care if you live or die.</p>
+            <p class="mt-4 text-xl text-gray-500">This is a collection of unique items for unique people. Scroll down for happy summer vibes.</p>
           </div>
           <div>
             <div class="mt-10">
